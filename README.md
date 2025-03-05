@@ -1,6 +1,6 @@
 # 最佳 Python 网络爬虫库
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn)
 
 在本综合指南中，您将了解最优秀的 Python 网络爬虫库、它们的主要特点，以及它们之间的比较。
 
