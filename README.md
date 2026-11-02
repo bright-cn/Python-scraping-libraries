@@ -1,6 +1,6 @@
 # 最佳 Python 网页爬虫库
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/) 
 
 通过这份综合指南，了解顶级 Python 网页爬虫库、主要功能及其对比。
 
