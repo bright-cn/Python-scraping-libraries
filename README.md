@@ -110,7 +110,7 @@ Python 网页爬虫库可帮助从网页中提取数据，并支持发送 HTTP �
 
 这些库非常适合网页爬虫，但也会面临 IP 封禁和 CAPTCHA 等挑战。你可以考虑使用 [Bright Data 解决方案](https://www.bright.cn/)来增强抓取能力。你还可以了解如何抓取特定网站：
 
-- [**Amazon**](https://github.com/bright-cn/LinkedIn-Scraper)
+- [**Amazon**](https://github.com/bright-cn/Amazon-Scraper)
 - [**LinkedIn**](https://github.com/bright-cn/LinkedIn-Scraper)
 - [**Google 地图**](https://github.com/bright-cn/Google-Maps-Scraper)
 - [**Google 新闻**](https://github.com/bright-cn/Google-News-Scraper)
